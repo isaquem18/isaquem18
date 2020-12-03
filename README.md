@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**isaquem18/isaquem18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Isaque Moura and I´m fullstack developer student in Brazil, with  10 months of experience working as freenlancer, working daily with technologies like: 
+- Javascript
+- HTML
+- CSS
+- Bootstrap
+- Git/Github
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently im studying:
+- NodeJS
+- React JS
+- React Native
+- NextJS
+- Aws / Google Cloud Plataform
