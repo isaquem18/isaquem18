@@ -6,10 +6,11 @@ My name is Isaque Moura and I´m fullstack developer student in Brazil, with  10
 - CSS
 - Bootstrap
 - Git/Github
-
-Currently im studying:
 - NodeJS
 - React JS
+
+Currently im studying:
+
 - React Native
 - NextJS
-- Aws / Google Cloud Plataform
+- Aws
