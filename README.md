@@ -8,9 +8,10 @@ My name is Isaque Moura and I´m fullstack developer student in Brazil, with  10
 - Git/Github
 - NodeJS
 - React JS
+- React Native
 
 Currently im studying:
 
-- React Native
+- MongoDB/DynamoDB
 - NextJS
 - Aws
