@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Isaque Moura and I´m fullstack developer student in Brazil, with  14 months of experience working as freenlancer, working daily with technologies like: 
+My name is Isaque Moura and I´m fullstack developer student in Brazil, with  17 months of experience working as freelancer, working daily with technologies like: 
 - Javascript
 - HTML
 - CSS
