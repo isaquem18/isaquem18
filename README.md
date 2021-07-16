@@ -6,7 +6,6 @@ My name is Isaque Moura and I´m fullstack developer student in Brazil working a
 - CSS
 - Bootstrap
 - Git/Github
-- NodeJS
 - React JS
 - React Native
 
