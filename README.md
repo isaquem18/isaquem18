@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Isaque Moura and I´m fullstack developer student in Brazil working as freelancer, working daily with technologies like: 
+My name is Isaque Moura and I´m Frontend developer in Brazil, working daily with technologies like: 
 - Javascript
 - HTML
 - CSS
@@ -8,9 +8,5 @@ My name is Isaque Moura and I´m fullstack developer student in Brazil working a
 - Git/Github
 - React JS
 - React Native
-
-Currently im studying:
-
-- MongoDB/DynamoDB
-- NextJS
-- Aws
+- styled-components
+- android/ios stores
